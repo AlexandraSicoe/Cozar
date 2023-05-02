@@ -58,4 +58,8 @@ button {
   font-size: 1.2em;
   border: none;
   display: inline-block;
+}
+
+ul li {
+  list-style: none;
 }/*# sourceMappingURL=design.css.map */
