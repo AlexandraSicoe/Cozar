@@ -23,4 +23,39 @@ a:hover {
     display: inline-block;
     font-size: 12px;
   }
+}
+.cover {
+  background-image: url(./bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 400px;
+  background-position: center;
+}
+
+.title-name {
+  padding-top: 80px;
+}
+
+.title-project {
+  padding-bottom: 80px;
+  font-size: 30px;
+}
+
+.arrow {
+  margin: -40px auto 0;
+  display: block;
+}
+
+.post-text {
+  font-size: 12px;
+}
+
+button {
+  color: #fff !important;
+  background-color: #000 !important;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+  border: none;
+  display: inline-block;
 }/*# sourceMappingURL=design.css.map */
