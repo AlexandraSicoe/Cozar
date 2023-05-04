@@ -62,4 +62,16 @@ button {
 
 ul li {
   list-style: none;
+}
+
+.form-control {
+  color: #000;
+  padding-left: 0;
+  padding-right: 0;
+  border: none;
+  outline: 0;
+  box-shadow: none;
+  border-bottom: 1px solid black;
+  border-radius: 0;
+  margin-bottom: 10px;
 }/*# sourceMappingURL=design.css.map */
